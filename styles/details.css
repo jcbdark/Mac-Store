@@ -113,11 +113,6 @@ main {
 .product-images-block .thumbnail-container {
   grid-column: 1;
   margin: 3px;
-  max-width: 100%;
-  overflow: hidden; /* Mantiene la imagen dentro del contenedor */
-  margin: 3px; /* Ajusta el margen según sea necesario */
-  border: 1px solid #ccc; /* Opcional, si deseas bordes */
-  height: 70px; 
 }
 .product-images-block .thumbnail-container img {
   max-width: 100%;
